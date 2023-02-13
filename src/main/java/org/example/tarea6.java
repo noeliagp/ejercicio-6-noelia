@@ -10,7 +10,7 @@ public class tarea6 {
     public static void main(String[] args) {
 
 
-        Ordenacion2 selectionSort = new Ordenacion2();
+        Ordenacion selectionSort = new Ordenacion();
 		int[] array1 = { 10, 1, 5, 40, 12, 34, 44, 12, 11, 9 };
 		selectionSort.imprimirArray(array1);
 		selectionSort.ordenarArray(array1);

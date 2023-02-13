@@ -8,6 +8,8 @@ package org.example;
  */
 
 /* HE MODIFICADO EL CÓDIGO CON ESTA LINEA */
+
+    /* CAMBIO NUMERO 1 */
 public class Ordenacion {
     /**
      * Método constructor que crea un array de int y lo va recorriendo con bucles for para ordenarlo y muestra por pantalla
@@ -26,6 +28,7 @@ public class Ordenacion {
             imprimirArray(array);
         }
     }
+    /* CAMBIO NUMERO 2*/
     /**
      * Método constructor que crea un array de int y lo va recorriendo con bucles for para ordenarlo y dentro tiene otro bucle para volver a ordenarlo.
      *
@@ -44,6 +47,7 @@ public class Ordenacion {
         }
         return numbers;
     }
+    /* CAMBIO NUMERO 3*/
     /**
      * Método constructor que crea un array de int y lo va recorriendo con bucles for para mostrarlo por pantalla
      *
